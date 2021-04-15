@@ -1,0 +1,76 @@
+.details-container {
+    color: cadetblue;
+    background-color: white;
+    border: 1px solid cadetblue;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    margin: 25px auto;
+    width: 80%;
+    padding: 8px;
+}
+
+.details-title {
+    align-self: center;
+}
+
+.image-container {
+    background-color: rgb(2, 37, 46);
+    display: flex;
+    justify-content: center;
+}
+
+.hero-image {
+    align-self: center;
+    width: 250px;
+    display: flex;
+}
+
+.to-home {
+    display: flex;
+    margin: 15px;
+    text-decoration: none;
+    color: cadetblue;
+}
+
+.to-home:hover {
+    color: chartreuse;
+}
+
+.arrow-icon {
+    font-size: 35px;
+    display: flex;
+    align-self: center;
+}
+
+.info1-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.char-info1 {
+    text-decoration: none;
+    margin: 5px;
+    color: cadetblue;
+    
+}
+
+.char-info1:hover {
+    color: chartreuse;
+}
+
+.info2-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.char-info2 {
+    align-self: center;
+    margin-left: 5px;
+}
+
+.not-found {
+    align-self: center;
+    margin: 5px;
+}
+

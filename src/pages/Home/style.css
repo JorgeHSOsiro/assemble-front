@@ -1,0 +1,23 @@
+.items-container {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    width: 90%;
+    top: 160px;
+    margin: 10px auto;
+    border-radius: 10px;
+    border: solid 2px cadetblue;
+}
+
+.error-container {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 90%;
+    top: 160px;
+    margin: 10px auto;
+    padding: 8px;
+    border-radius: 10px;
+    border: solid 2px cadetblue;
+}

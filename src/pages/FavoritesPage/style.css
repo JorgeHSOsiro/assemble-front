@@ -1,0 +1,17 @@
+.favorites-container {
+    color: cadetblue;
+    background-color: white;
+    border: 1px solid cadetblue;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    margin: 0px auto;
+    margin-top: 20vh;
+    text-align: center;
+    width: 500px;
+}
+
+.favorites-content {
+    display: flex;
+    justify-content: space-around;
+}
